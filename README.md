@@ -30,3 +30,6 @@
 ##### Была создана ветка для отчёта
 
 ![Рисунок 11](https://github.com/ivanova4216/Screenshots/blob/main/13.png?raw=true)
+##### Была получена история операций в форматированном виде
+
+![Рисунок 12](https://github.com/ivanova4216/Screenshots/blob/main/14.png?raw=true)
